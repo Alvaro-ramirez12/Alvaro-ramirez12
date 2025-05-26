@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there  👋
+## lenguajes de programacion
+![JS](https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![c++](https://img.shields.io/badge/-c++-A8B9CC?style=flat&logo=c++&logoColor=white)
+![netbeans](https://img.shields.io/badge/-netbeans-1B6AC6?style=flat&logo=netbeans&logoColor=white)
+
+## Bases de datos
+
+![MYSQL](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 
 <!--
 **Alvaro-ramirez12/Alvaro-ramirez12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
